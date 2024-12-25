@@ -1,16 +1,28 @@
 ## Hi there 👋
+Hello, I'm **Pavel**, a **Senior Software Engineer** with over a decade of experience in the tech world. 
 
-<!--
-**pkvach/pkvach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My expertise spans **PHP, Java, JavaScript**, and I have a keen interest in **Web Performance** and **DevOps**.
 
-Here are some ideas to get you started:
+🛠️ **What I Do:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Build software** with a focus on creating efficient, scalable solutions.
+- **Enhance productivity** through continuous learning and the application of best practices in software engineering.
+- **Share knowledge** via articles on programming, productivity tools, and strategies for self-improvement on [my personal website](https://pavelkvach.com/en/).
+
+⚙️ **Tech Stack:**
+
+- **Languages:** PHP, Java, JavaScript.
+- **Databases:** MySQL, PostgreSQL, MongoDB.
+- **Integration Tools:** Message brokers, Microservices, APIs.
+
+❤️ **My Passions:**
+
+- **Web Development**: Crafting responsive, high-performance web applications.
+- **Self-Improvement**: Dedicated to learning and personal growth, both in my professional and personal life.
+
+🤝 **Connect with me:**
+
+- Dive into my projects here on GitHub or check out [my articles](https://pavelkvach.com/en/) on productivity and programming.
+- Follow my journey on X: [@pkvach](https://x.com/pkvach)
+
+Let’s connect and build something great together! 🚀
