@@ -9,7 +9,7 @@ My expertise spans **PHP, Java, JavaScript**, and I have a keen interest in **We
 - **Enhance productivity** through continuous learning and the application of best practices in software engineering.
 - **Share knowledge** via articles on programming, productivity tools, and strategies for self-improvement on [my personal website](https://pavelkvach.com/en/).
 
-📝 **Recent Blog Posts**:
+📝 **Latest Blog Posts**:
 <!-- BLOG-POST-LIST:START -->
 - [2 easy ways to find the geographic coordinates of a location](https://pavelkvach.com/en/posts/2-easy-ways-to-find-the-geographic-coordinates-of-a-location/)
 - [PHP cheat sheets: where to get a quick help for working with different types?](https://pavelkvach.com/en/posts/php-cheat-sheets/)
