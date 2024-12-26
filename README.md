@@ -9,6 +9,10 @@ My expertise spans **PHP, Java, JavaScript**, and I have a keen interest in **We
 - **Enhance productivity** through continuous learning and the application of best practices in software engineering.
 - **Share knowledge** via articles on programming, productivity tools, and strategies for self-improvement on [my personal website](https://pavelkvach.com/en/).
 
+📝 **Recent Blog Posts**:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ⚙️ **Tech Stack:**
 
 - **Languages:** PHP, Java, JavaScript.
