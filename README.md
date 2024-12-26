@@ -11,6 +11,11 @@ My expertise spans **PHP, Java, JavaScript**, and I have a keen interest in **We
 
 📝 **Recent Blog Posts**:
 <!-- BLOG-POST-LIST:START -->
+- [2 easy ways to find the geographic coordinates of a location](https://pavelkvach.com/en/posts/2-easy-ways-to-find-the-geographic-coordinates-of-a-location/)
+- [PHP cheat sheets: where to get a quick help for working with different types?](https://pavelkvach.com/en/posts/php-cheat-sheets/)
+- [Notes on the book &quot;Elegant Objects&quot; by Yegor Bugaenko](https://pavelkvach.com/en/posts/elegant-objects-notes/)
+- [How to fix common JavaScript errors](https://pavelkvach.com/en/posts/how-to-fix-common-javascript-errors/)
+- [3 Online CSS Compression Tools](https://pavelkvach.com/en/posts/3-online-css-compression-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ⚙️ **Tech Stack:**
