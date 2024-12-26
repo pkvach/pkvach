@@ -23,6 +23,7 @@ My expertise spans **PHP, Java, JavaScript**, and I have a keen interest in **We
 🤝 **Connect with me:**
 
 - Dive into my projects here on GitHub or check out [my articles](https://pavelkvach.com/en/) on productivity and programming.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/pavel-kvach/)
 - Follow my journey on X: [@pkvach](https://x.com/pkvach)
 
 Let’s connect and build something great together! 🚀
